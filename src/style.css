@@ -1,0 +1,38 @@
+body
+{
+    background-image: url("images/biege_background.jpg");
+}
+
+h1
+{
+    text-align: center;
+    color: red;
+}
+
+h2
+{
+    font-weight: bold;
+}
+
+p
+{
+    font-size: 30px;
+}
+
+em
+{
+    font-size: 30px;
+}
+
+
+
+/*div {
+    background-image: url("src/img/image.jpg");
+    width: 500px;
+    height: 200px;
+    padding: 10px 30px 100px 60px;
+    border: 3px solid red;
+    border-radius: 20px;
+    box-sizing: border-box;
+
+} */
