@@ -9,6 +9,13 @@ h1
     color: red;
 }
 
+.chapter
+{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
 h2
 {
     font-weight: bold;
@@ -23,6 +30,12 @@ p
 em
 {
     font-size: 30px;
+}
+
+.italicsP
+{
+    font-style: italic;
+    text-align: center;
 }
 
 /*div {
